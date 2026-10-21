@@ -1,0 +1,13 @@
+# Binaries and object files
+*.exe
+*.o
+*.obj
+*.a
+*.so
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
